@@ -12,7 +12,7 @@ This project uses [NASA ECCO](https://ecco-group.org/) products to investigate t
 
 Salinity and temperature in the eastern Indian Ocean is closely linked to the [Indian Ocean Dipole](https://www.climate.gov/news-features/blogs/enso/meet-enso%E2%80%99s-neighbor-indian-ocean-dipole). During the positive phase, the eastern Indian Ocean is relatively cool and salty; during the negative phase, the eastern Indian Ocean is relatively warm and fresh.
 
-<img source="https://github.com/ECCO-Summer-School/ESS25-Team_ECCO-UP/blob/main/figures/ecco_sal_temp_area_plot.png?raw=true" width=200px height=auto>
+<img src="https://github.com/ECCO-Summer-School/ESS25-Team_ECCO-UP/blob/main/figures/ecco_sal_temp_area_plot.png?raw=true" width="400px" height="auto">
 
 While it is clear that the salinity anomaly is driven by anomalous freshwater flux (i.e., rainfall), it is less clear what is forcing the temperature. Therefore, we use ECCO to investigate the specific forcings that cause changes in temperature and salinity and determine how these forcings are different in warm and fresh vs. cool and salty years.
 
