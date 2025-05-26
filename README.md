@@ -4,17 +4,21 @@ This project uses [NASA ECCO](https://ecco-group.org/) products to investigate t
 
 ## Collaborators
 
-| Name |
-| ------------- |
-| Andrew S. |
-| Milagro U. |
-| Sreelekha J. |
+- Andrew S.
+- Milagro U.
+- Sreelekha J.
+
+## Motivation
+
+Salinity and temperature in the eastern Indian Ocean is closely linked to the [Indian Ocean Dipole](https://www.climate.gov/news-features/blogs/enso/meet-enso%E2%80%99s-neighbor-indian-ocean-dipole). During the positive phase, the eastern Indian Ocean is relatively cool and salty; during the negative phase, the eastern Indian Ocean is relatively warm and fresh.
+
+<img source="https://github.com/ECCO-Summer-School/ESS25-Team_ECCO-UP/blob/main/figures/ecco_sal_temp_area_plot.png?raw=true" width=200px height=auto>
+
+While it is clear that the salinity anomaly is driven by anomalous freshwater flux (i.e., rainfall), it is less clear what is forcing the temperature. Therefore, we use ECCO to investigate the specific forcings that cause changes in temperature and salinity and determine how these forcings are different in warm and fresh vs. cool and salty years.
 
 ## Project Results
 
-Use this section to briefly summarize your project results. This could take the form of describing the progress your team made to answering a research question, developing a tool or tutorial, interesting things found in exploring a new dataset, lessons learned for applying a new method, personal accomplishments of each team member, or anything else the team wants to share.
-
-You could include figures or images here, links to notebooks or code elsewhere in the repository (such as in the [notebooks](notebooks/) folder), and information on how others can run your notebooks or code.
+Still to come!
 
 ## Repository Structure
 
