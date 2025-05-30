@@ -66,7 +66,7 @@ The convolutions are also used to reconstruct a time series of SST and compared 
 A passive tracer was released on August 1st in 1994 and 2010 within the top grid cell (0-10 m) evenly spread over the study region from 105&deg;E to 115&deg;E and from 12&deg;S to 8&deg;S. Using the adjoint machinery within ECCO, this tracer was tracked backwards one year. The results of this release are shown below, with the tracer units represented as a fraction of total tracer.
 
 <p align="center">
-  <img src="https://github.com/ECCO-Summer-School/ESS25-Team_ECCO-UP/blob/main/figures/poster_pres_figs/AdjointTracer_Surface_1994_2010_animation_1x2.gif?raw=true" width="auto" height="auto" alt="A gif showing the tracer release tracked backwards in 1994 and 2010.">
+  <img src="https://github.com/ECCO-Summer-School/ESS25-Team_ECCO-UP/blob/main/figures/poster_pres_figs/AdjointTracer_depth_integrated_1994_2010_animation_1x2.gif?raw=true" width="auto" height="auto" alt="A gif showing the tracer release tracked backwards in 1994 and 2010.">
 </p>
 
 The adjoint tracer simulation shows that in both 1994 and 2010, the majority of the tracer in the surface south of Java originates to the northeast within the Maritime Continent region six months prior. However, in 2010 - a warm and fresh year - there is also a significant contribution of tracer from the northwest. This suggests an advective anomaly that could explain the different conditions south of Java between the two years. However, it would take further research, perhaps a water mass analysis of the origination regions, to determine this for certain.
