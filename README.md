@@ -44,7 +44,7 @@ ECCO is using these observations to constrain the v4r4 state estimates but it is
 Two adjoint gradients were computed using sea surface temperature and sea surface salinity in the box region over three months as the defined objective function. *This was a mistake and made the interpretation of the gradients somewhat tricky*. However, we didn't have time to re-run the gradients with the objective function defined only over a month. Nevertheless, we will proceed with examining these results.
 
 <p align="center">
-  <img src="https://github.com/ECCO-Summer-School/ESS25-Team_ECCO-UP/blob/main/figures/poster_pres_figs/EMU_SST_SSS_Adjoint_Lag24weeks_2010.png?raw=true" width="400px" height="auto" alt="Adjoint gradients for SST and SSS for controls of freshwater flux, heat flux, and winds.">
+  <img src="https://github.com/ECCO-Summer-School/ESS25-Team_ECCO-UP/blob/main/figures/poster_pres_figs/EMU_SST_SSS_Adjoint_Lag24weeks_2010.png?raw=true" width="600px" height="auto" alt="Adjoint gradients for SST and SSS for controls of freshwater flux, heat flux, and winds.">
 </p>
 
 The SST responded strongly to both winds (particularly westward winds) and heat flux. The response to winds is both local and remote, with a strong negative response to local westward winds; when westward winds increase, SST decreases, a response consistent with local winds causing Ekman transport, i.e., coastal wind-driven upwelling. The SSS responds similarly, except with a strong sensitivity to freshwater flux rather than heat flux. Both SST and SSS also depend on remote winds, heat, and freshwater flux, especially to the northeast in a pathway that follows the Indonesian flow-through.
@@ -66,7 +66,7 @@ The convolutions are also used to reconstruct a time series of SST and compared 
 A passive tracer was released on August 1st in 1994 and 2010 within the top grid cell (0-10 m) evenly spread over the study region from 105&deg;E to 115&deg;E and from 12&deg;S to 8&deg;S. Using the adjoint machinery within ECCO, this tracer was tracked backwards one year. The results of this release are shown below, with the tracer units represented as a fraction of total tracer.
 
 <p align="center">
-  <img src="https://github.com/ECCO-Summer-School/ESS25-Team_ECCO-UP/blob/main/figures/poster_pres_figs/AdjointTracer_Surface_1994_2010_animation_1x2.gif?raw=true" width="400px" height="auto" alt="A gif showing the tracer release tracked backwards in 1994 and 2010.">
+  <img src="https://github.com/ECCO-Summer-School/ESS25-Team_ECCO-UP/blob/main/figures/poster_pres_figs/AdjointTracer_Surface_1994_2010_animation_1x2.gif?raw=true" width="auto" height="auto" alt="A gif showing the tracer release tracked backwards in 1994 and 2010.">
 </p>
 
 The adjoint tracer simulation shows that in both 1994 and 2010, the majority of the tracer in the surface south of Java originates to the northeast within the Maritime Continent region six months prior. However, in 2010 - a warm and fresh year - there is also a significant contribution of tracer from the northwest. This suggests an advective anomaly that could explain the different conditions south of Java between the two years. However, it would take further research, perhaps a water mass analysis of the origination regions, to determine this for certain.
