@@ -77,7 +77,5 @@ The adjoint tracer simulation shows that in both 1994 and 2010, the majority of 
 <br> Code from each of the team members for this project.
 * **`figures/`**
 <br> Figures output from the analyses in this project.
-* **`notebooks/`**
-<br> Notebooks that are considered delivered results.
 * **`scripts/`**
 <br> Code that is shared by the team.
